@@ -37,3 +37,36 @@
   width: 40px; /* Adjust the width */
   height: 40px; /* Adjust the height */
 }
+.manimg{
+  position: relative;
+  width: 500px;
+  height: 700px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+  height: 80vh;
+}
+
+.text-content {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.img-content {
+  width: 40%;
+}
+
+.text-right {
+  font-size: 5.5rem;
+  font-weight: bold;
+  color: black;
+}
+
+.checklist-icon {
+  font-size: 2rem;
+  color: black;
+  margin-left: 10px;
+}
